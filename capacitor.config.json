@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appFlow",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
